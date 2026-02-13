@@ -424,7 +424,7 @@ msgstr "<0>{0}</0> от Пацифистских принципов (оборо�
 #. placeholder {0}: region.strategicBonus
 #: src/components/_economy/company/RecommendedCompanyRegions.tsx:121
 msgid "<0>{0}</0> from strategic resources production bonus."
-msgstr "<0>{0}</0> от бонуса к производству от стратегических ресурсов"
+msgstr "<0>{0}</0> бонуса к производству от стратегических ресурсов"
 
 #. placeholder {0}: gameConfig.battle.pointsToWinRound
 #: src/components/_common/RoundPoints.tsx:17
@@ -446,7 +446,7 @@ msgstr "<0>{ethicDepositBonus}</0> от <1/> бонуса на залежи от
 
 #: src/components/_economy/company/CompanyProductionBonusTag.tsx:64
 msgid "<0>{ethicSpecializationBonus}</0> from <1/> industrialist ethics specialization bonus."
-msgstr "<0>{ethicSpecializationBonus}</0> от <1/> бонуса на производства от индустриальных принципов."
+msgstr "<0>{ethicSpecializationBonus}</0> бонуса к производству от индустриальных принципов <1/>."
 
 #: src/components/_economy/company/CompanyProductionBonusTag.tsx:53
 msgid "<0>{strategicBonus}</0> from <1/> strategic resources production bonus."
@@ -490,7 +490,7 @@ msgstr "<0>Заполняется <1>Очками Производства</1> �
 #. placeholder {7}: gameConfig?.unrest.contributionCooldownAfterRevolutionHours
 #: src/components/_political/unrest/UnrestBar.tsx:25
 msgid "<0>Unrest</0> represents internal tension in the country.<1/><2/>Citizens can contribute by spending <3>{0}</3> or <4>{1}</4> to add <5>{2}</5> to the bar. Unrest decays daily by <6>{3}-{4}%</6>.<7/><8/>When the bar is full, any party can vote via motion to start a <9>Civil war</9> (cost: <10>development × 10</10>, cooldown: {5}h). The battle takes place in the capital region, and <11>only citizens</11> can fight.<12/><13/>If revolutionaries win:<14/>- Government is impeached<15/>- Borders are opened for {6} days<16/>- Presidential elections begin<17/><18/>After a revolution, contributions are disabled for {7}h."
-msgstr "msgid "<0>Смута</0> отражает внутреннюю напряженность в стране.<1/><2/>Граждане могут внести свой вклад, потратив <3>{0}</3> или <4>{1}</4>, добавив <5>{2}</5> в шкалу. Смута утихает с каждым днем на <6>{3}-{4}%</6>.<7/><8/> Когда шкала заполнена, любая партия может проголосовать за начало <9>Гражданской войны</9> (стоимость: <10>развитие × 10</10>, время восстановления: {5}ч). Сражение происходит в столичном регионе, и принять участие могут <11>только граждане</11>.<12/><13/>Если победят революционеры:<14/> - Правительству объявят импичмент<15/> - Границы откроются на {6} дней<16/>- Инициируются президенсткие выборы<17/><18/>После революции взносы отключаются на {7} часов.""
+msgstr "msgid "<0>Смута</0> отражает внутреннюю напряженность в стране.<1/><2/>Граждане могут внести свой вклад, потратив <3>{0}</3> или <4>{1}</4>, добавив <5>{2}</5> в шкалу. Смута стихает с каждым днем на <6>{3}-{4}%</6>.<7/><8/> Когда шкала заполнена, любая партия может проголосовать за начало <9>Гражданской войны</9> (стоимость: <10>развитие × 10</10>, время восстановления: {5}ч). Сражение происходит в столичном регионе, и принять участие могут <11>только граждане</11>.<12/><13/>Если победят революционеры:<14/> - Правительству объявят импичмент<15/> - Границы откроются на {6} дней<16/>- Инициируются президенсткие выборы<17/><18/>После революции вклад невозможен в течение {7} часов.""
 
 #: src/components/_economy/inventory/case/cases.frontConfig.tsx:86
 msgid "1 legendary down, 5 more to go for a full stuff, keep gambling!"
@@ -1051,7 +1051,7 @@ msgstr "Все партии"
 
 #: src/components/_other/shop/SkinPackModal.tsx:300
 msgid "All skins owned"
-msgstr "Все скины в наличии"
+msgstr "Все скины во владении"
 
 #: src/components/_economy/transaction/TransactionList.tsx:70
 msgid "All types"
@@ -1486,7 +1486,7 @@ msgstr "Кадет"
 
 #: src/components/_political/election/CandidateFormModal.tsx:66
 msgid "Campaign Article Link (optional)"
-msgstr "Сыылка на статью с кампанией (опционально)"
+msgstr "Ссылка на статью кампании (опционально)"
 
 #: src/components/_political/election/CandidateFormModal.tsx:83
 msgid "Cancel"
@@ -1506,11 +1506,11 @@ msgstr "Нельзя назначать вице-президента или м�
 
 #: src/components/_political/party/party.frontConfig.tsx:134
 msgid "Cannot have allies."
-msgstr "Нельзя вступать в альянсы."
+msgstr "Нельзя заключать союзы."
 
 #: src/components/_political/party/party.frontConfig.tsx:181
 msgid "Cannot have sworn enemies."
-msgstr "Нельзя назначать заклятых врагов."
+msgstr "Нельзя определять заклятых врагов."
 
 #: src/components/_political/party/party.frontConfig.tsx:291
 msgid "Cannot pick a specialization good / no benefit from specialization."
@@ -1643,28 +1643,28 @@ msgstr "Граждане получают бонус, когда сражают�
 #: src/components/_political/party/party.frontConfig.tsx:86
 #: src/components/_political/party/party.frontConfig.tsx:100
 msgid "Citizens get an additional <0>{0}</0> attacking battle bonus."
-msgstr "Граждане получают дополнительный <0>{0}</0> урон к атаке"
+msgstr "Граждане получают дополнительный <0>{0}</0> бонус урона в атаке"
 
 #. placeholder {0}: formatPercent(ethicsBonuses.isolationism['-1'].enemyBattleBonus)
 #. placeholder {0}: formatPercent(ethicsBonuses.isolationism['-2'].enemyBattleBonus)
 #: src/components/_political/party/party.frontConfig.tsx:127
 #: src/components/_political/party/party.frontConfig.tsx:142
 msgid "Citizens get an additional <0>{0}</0> battle bonus against sworn enemies."
-msgstr "Граждание получают дополнительный <0>{0}</0> урон к войне против заклятого врага"
+msgstr "Граждане получают дополнительный <0>{0}</0> бонус урона против заклятых врагов"
 
 #. placeholder {0}: formatPercent(ethicsBonuses.isolationism[1].allyBattleBonus)
 #. placeholder {0}: formatPercent(ethicsBonuses.isolationism[2].allyBattleBonus)
 #: src/components/_political/party/party.frontConfig.tsx:160
 #: src/components/_political/party/party.frontConfig.tsx:174
 msgid "Citizens get an additional <0>{0}</0> battle bonus fighting for allies."
-msgstr "Граждане получают дополнительный <0>{0}</0> урон к войне на стороне союзников"
+msgstr "Граждане получают дополнительный <0>{0}</0> бонус урона в войне за союзников"
 
 #. placeholder {0}: formatPercent(ethicsBonuses.militarism['-1'].defenseBattleBonus)
 #. placeholder {0}: formatPercent(ethicsBonuses.militarism['-2'].defenseBattleBonus)
 #: src/components/_political/party/party.frontConfig.tsx:51
 #: src/components/_political/party/party.frontConfig.tsx:68
 msgid "Citizens get an additional <0>{0}</0> defensive battle bonus."
-msgstr "Граждане получают дополнительный <0>{0}</0> урон к защите"
+msgstr "Граждане получают дополнительный <0>{0}</0> бонус к урону в обороне"
 
 #: src/components/_political/country/CountryHeader.tsx:107
 msgid "Citizenship"
@@ -2178,7 +2178,7 @@ msgstr "Наносит хоть какой-то урон"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:870
 msgid "Debuff ended"
-msgstr "Усталость снята"
+msgstr "Усталость прошла"
 
 #: src/components/_political/law/law.frontConfig.tsx:91
 msgid "Declare war"
@@ -2345,7 +2345,7 @@ msgstr "Уклонитесь от <0>{count}</0> атак"
 
 #: src/components/_political/party/party.frontConfig.tsx:58
 msgid "Does not gain development from non-core regions."
-msgstr "Не даёт развитие от ненациональных регионов"
+msgstr "Не даёт развитие от оккупированных регионов"
 
 #: src/components/_economy/inventory/case/cases.frontConfig.tsx:55
 msgid "Don't forget to drink water"
@@ -4095,7 +4095,7 @@ msgstr "Один клик отделяет тебя от легендарки...
 #: src/components/_political/party/party.frontConfig.tsx:287
 #: src/components/_political/party/party.frontConfig.tsx:308
 msgid "Only buffs and food deposits spawn in your borders (coca, grain, livestock and fish)."
-msgstr "В ваших границах появляются только усиления и депозиты продовольствия (таинственное растение, зерно, домашний скот и рыба)."
+msgstr "В пределах ваших границах появляются только стратегические ресурсы и залежи продовольствия (таинственное растение, зерно, домашний скот и рыба)."
 
 #: src/components/_military/tournament/TournamentRegisterButton.tsx:156
 msgid "Only MU owners/commanders can register their MU"
@@ -4242,7 +4242,7 @@ msgstr "Заявка в партию принята"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:377
 msgid "Party Application Rejected"
-msgstr "Заява в партию отклонена"
+msgstr "Заявка в партию отклонена"
 
 #: src/components/_political/election/election.frontConfig.tsx:38
 msgid "Party Council election"
@@ -5185,7 +5185,7 @@ msgstr "<0>Описание</0> в профиле"
 
 #: src/pages/user/[userId]/referrals.tsx:153
 msgid "Set a referrer"
-msgstr "Указать реферала"
+msgstr "Указать реферера"
 
 #: src/components/_political/law/law.frontConfig.tsx:338
 msgid "Set a welcome article for your country"
@@ -5733,7 +5733,7 @@ msgstr "Всего урона"
 
 #: src/components/_economy/donation/DonationList.tsx:65
 msgid "Total Donated:"
-msgstr "Всего взношено:"
+msgstr "Всего внесено:"
 
 #: src/components/_military/battle/ActiveBattlesList.tsx:75
 #: src/components/_military/battle/ActiveBattlesList.tsx:139
@@ -5961,7 +5961,7 @@ msgstr "Б/у"
 #: src/utils/translations.tsx:84
 #: src/utils/translations.tsx:89
 msgid "Used for shooting guns. Increases your <0>Attack</0>"
-msgstr "Используется для стрельбы из огнестрела. Увеличивает вашу <0>Атаку</0>"
+msgstr "Используется для стрельбы из оружия. Увеличивает вашу <0>Атаку</0>"
 
 #: src/components/_user/user/skills.frontConfig.tsx:163
 msgid "Used to <0>Self Work</0> in your own companies"
