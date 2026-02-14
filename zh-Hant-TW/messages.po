@@ -40,7 +40,7 @@ msgstr "{0} & 盟友"
 #. placeholder {0}: lawConfig.minActiveCitizen
 #: src/components/_political/law/Law.tsx:120
 msgid "{0} active citizens required"
-msgstr ""
+msgstr "需要 {0} 位活躍公民"
 
 #. placeholder {0}: data.userId && ( <UserUsername userId={data.userId} withAvatar withFlag /> )
 #: src/components/_user/notification/notification.frontConfig.tsx:606
@@ -50,7 +50,7 @@ msgstr "{0} 購買了你的物品"
 #. placeholder {0}: Math.floor(cooldownHours / 24)
 #: src/components/_political/partyMotion/PartyMotionTypeSelect.tsx:144
 msgid "{0} days cooldown"
-msgstr ""
+msgstr "{0} 日冷卻"
 
 #. placeholder {0}: user.data.leveling.freeReset
 #: src/pages/user/[userId]/skills.tsx:169
@@ -119,7 +119,7 @@ msgstr "{score}/{0} 回合"
 
 #: src/components/_other/shop/SkinPackModal.tsx:224
 msgid "*If the user already owns some pieces of the set, the price will be reduced"
-msgstr ""
+msgstr "*如果用戶已經擁有一些造型包中的造型，價格會減少"
 
 #: src/components/_user/premium/PremiumFeatureList.tsx:143
 msgid "*May burn"
@@ -183,12 +183,12 @@ msgstr "<0/> 贈送給你一個橫幅 \"{0}\" ！"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:1693
 msgid "<0/> gifted you the skin \"{skinTitle}\"!"
-msgstr ""
+msgstr "<0/> 贈送給你造型 \"{skinTitle}\"！"
 
 #. placeholder {0}: data.skinPackTitle
 #: src/components/_user/notification/notification.frontConfig.tsx:1756
 msgid "<0/> gifted you the skin pack \"{0}\"!"
-msgstr ""
+msgstr "<0/> 贈送給你造型包 \"{0}\"！"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:1422
 msgid "<0/> has been created, it gonna start soon!"
@@ -200,7 +200,7 @@ msgstr "<0/> 被選為 <1/> 的總統"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:1074
 msgid "<0/> has started a revolution in <1/>"
-msgstr ""
+msgstr "<0/> 已經開始了在 <1/> 的革命"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:1435
 msgid "<0/> has started! Let the battles begin!"
