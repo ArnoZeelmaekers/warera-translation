@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
 "PO-Revision-Date: \n"
-"Last-Translator: \n"
+"Last-Translator: Gokruzk\n"
 "Language-Team: \n"
 "Plural-Forms: \n"
 
@@ -318,11 +318,11 @@ msgstr "¡<0/> ganó la ronda <1>#{0}</1> en <2/>!"
 
 #: src/components/_user/user/UserHeader.tsx:276
 msgid "<0/><1>Buff</1> ends <2/>"
-msgstr "<0/><1>Buff</1> termina <2/>"
+msgstr "<0/><1>Bonificación</1> termina en <2/>"
 
 #: src/components/_user/user/UserHeader.tsx:285
 msgid "<0/><1>Debuff</1> ends <2/>"
-msgstr "<0/><1>Debuff</1> termina <2/>"
+msgstr "<0/><1>Penalización</1> termina en <2/>"
 
 #: src/components/_user/user/UserHeader.tsx:348
 msgid "<0/>Last connection was <1><2/></1>"
@@ -462,7 +462,7 @@ msgstr "<0>{0}</0>/día"
 
 #: src/components/_economy/company/CompanyProductionBonusTag.tsx:81
 #~ msgid "<0>{citizenBonus}</0> from <1/> militarist ethics (citizen owner bonus)."
-#~ msgstr ""
+#~ msgstr "<0>{citizenBonus}</0> por <1/> ética militarista (bono por propietario ciudadano)."
 
 #: src/components/_economy/company/CompanyProductionBonusTag.tsx:75
 msgid "<0>{depositBonus}</0> from deposit resources in <1/>."
@@ -470,19 +470,19 @@ msgstr "<0>{depositBonus}</0> por recursos de yacimientos en <1/>."
 
 #: src/components/_economy/company/CompanyProductionBonusTag.tsx:86
 msgid "<0>{ethicDepositBonus}</0> from <1/> agrarian ethics deposit bonus."
-msgstr ""
+msgstr "<0>{ethicDepositBonus}</0> por bono de depósito de ética agraria en <1/>."
 
 #: src/components/_economy/company/CompanyProductionBonusTag.tsx:64
 msgid "<0>{ethicSpecializationBonus}</0> from <1/> industrialist ethics specialization bonus."
-msgstr ""
+msgstr "<0>{ethicSpecializationBonus}</0> por <1/> bono de especialización de ética industrialista."
 
 #: src/components/_economy/company/CompanyProductionBonusTag.tsx:70
 #~ msgid "<0>{pacifistBonus}</0> from <1/> pacifist ethics."
-#~ msgstr ""
+#~ msgstr "<0>{pacifistBonus}</0> from <1/> pacifist ethics."
 
 #: src/components/_economy/company/CompanyProductionBonusTag.tsx:53
 msgid "<0>{strategicBonus}</0> from <1/> strategic resources production bonus."
-msgstr "<0>{strategicBonus}</0> por el bonus de producción de recursos estratégicos de <1/>."
+msgstr "<0>{strategicBonus}</0> por el bono de producción de recursos estratégicos de <1/>."
 
 #: src/pages/country/[countryId]/index.tsx:399
 #: src/pages/country/[countryId]/index.tsx:448
@@ -492,12 +492,12 @@ msgstr "Recurso <0>#{key}</0> de cada tipo = <1>{value}</1>"
 #: src/components/_political/party/party.frontConfig.tsx:319
 #: src/components/_political/party/party.frontConfig.tsx:332
 #~ msgid "<0>+{0}</0> bonus towards ammo or construction specialization good."
-#~ msgstr ""
+#~ msgstr "<0>+{0}</0> bono towards ammo or construction specialization good."
 
 #: src/components/_political/party/party.frontConfig.tsx:280
 #: src/components/_political/party/party.frontConfig.tsx:299
 #~ msgid "<0>+{0}</0> from deposits in your country."
-#~ msgstr ""
+#~ msgstr "<0>+{0}</0> por depósitos en tu país."
 
 #: src/components/_user/user/UserTooltip.tsx:122
 msgid "<0>Buff</0> ends <1/>"
