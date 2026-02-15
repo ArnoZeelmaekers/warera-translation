@@ -191,16 +191,16 @@ msgstr "¡<0/> te regaló el banner \"{0}\"!"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:1690
 #~ msgid "<0/> gifted you the skin \"{0}\"!"
-#~ msgstr "<0/> te regaló la skin \"{0}\"!"
+#~ msgstr "¡<0/> te regaló la skin \"{0}\"!"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:1696
 msgid "<0/> gifted you the skin \"{skinTitle}\"!"
-msgstr "<0/> te regaló la skin \"{skinTitle}\"!"
+msgstr "¡<0/> te regaló la skin \"{skinTitle}\"!"
 
 #. placeholder {0}: data.skinPackTitle
 #: src/components/_user/notification/notification.frontConfig.tsx:1759
 msgid "<0/> gifted you the skin pack \"{0}\"!"
-msgstr "<0/> te regaló el skin pack \"{0}\"!"
+msgstr "¡<0/> te regaló el skin pack \"{0}\"!"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:1425
 msgid "<0/> has been created, it gonna start soon!"
@@ -208,7 +208,7 @@ msgstr "¡<0/> ha sido creado, comenzará pronto!"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:1155
 #~ msgid "<0/> has been created, you can now register!"
-#~ msgstr "<0/> ha sido creado, ¡ya puedes registrarte!"
+#~ msgstr "¡<0/> ha sido creado, ¡ya puedes registrarte!"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:225
 msgid "<0/> has been elected president of <1/>"
@@ -220,7 +220,7 @@ msgstr "<0/> ha iniciado una revolución en <1/>"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:1438
 msgid "<0/> has started! Let the battles begin!"
-msgstr "<0/> ha comenzado! ¡Que comiencen las batallas!"
+msgstr "¡<0/> ha comenzado! ¡Que comiencen las batallas!"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:1033
 msgid "<0/> is attacking <1/> in <2/>"
