@@ -3105,7 +3105,7 @@ msgstr "Baan aanbod"
 
 #: src/pages/market/index.tsx:77
 msgid "Job offers"
-msgstr "Baanaanbiedingen"
+msgstr "Jobaanbiedingen"
 
 #: src/components/_economy/market/MarketHeader.tsx:32
 msgid "Jobs"
@@ -3760,7 +3760,7 @@ msgstr "Nieuw item aanbod"
 #: src/components/_economy/workOffer/WorkOfferList.tsx:179
 #: src/pages/company/[companyId]/index.tsx:67
 msgid "New job offer"
-msgstr "Nieuw baanaanbod"
+msgstr "Nieuw jobaanbod"
 
 #: src/components/_economy/company/MoveCompanyForm.tsx:77
 msgid "New location"
