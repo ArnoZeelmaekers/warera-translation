@@ -945,6 +945,10 @@ msgstr "Başka bir ülkeyle barış yapmayı kabul et"
 msgid "Accepted"
 msgstr "Kabul Edildi"
 
+#: src/components/_military/battle/BattleHeader.tsx:161
+msgid "Access war"
+msgstr ""
+
 #: src/components/_political/country/CountryHeader.tsx:70
 #: src/components/_user/user/UserHeader.tsx:162
 #: src/pages/country/[countryId]/account.tsx:36
@@ -1038,7 +1042,6 @@ msgstr "Geliştirilmiş Pantolon"
 msgid "Agrarian"
 msgstr "Tarımcılık"
 
-#: src/components/_economy/itemOffer/ItemOfferList.tsx:92
 #: src/components/_military/battle/ActiveBattlesList.tsx:132
 #: src/components/_military/battle/EndedBattlesList.tsx:78
 msgid "All"
@@ -3795,7 +3798,7 @@ msgstr "Yeni ekipman"
 msgid "New ethics configuration"
 msgstr "Yeni ilke yapılandırması"
 
-#: src/components/_economy/itemOffer/ItemOfferList.tsx:106
+#: src/components/_economy/itemOffer/ItemOfferList.tsx:90
 msgid "New item offer"
 msgstr "Yeni eşya teklifi"
 
@@ -3971,7 +3974,7 @@ msgstr "Henüz para sıralaması yok."
 msgid "No motions yet"
 msgstr "Henüz önerge yok"
 
-#: src/components/_economy/itemOffer/ItemOfferList.tsx:113
+#: src/components/_economy/itemOffer/ItemOfferList.tsx:97
 msgid "No offers found"
 msgstr "Teklif bulunamadı"
 
@@ -5389,7 +5392,7 @@ msgstr "Başkanlık seçimi başlat"
 msgid "Start revolution"
 msgstr "Bir devrim başlat"
 
-#: src/components/_military/battle/BattleHeader.tsx:187
+#: src/components/_military/battle/BattleHeader.tsx:185
 #: src/components/_military/war/WarHeader.tsx:61
 #: src/components/_military/war/WarItem.tsx:108
 msgid "Started <0/>"
@@ -5942,10 +5945,6 @@ msgstr "<0>Girişimciliğini</0> kullanarak kendi şirketinde çalış ve üreti
 msgid "Use your <0>Hunger</0> to eat food and refill your <1>Health</1>. Then get back to fighting!"
 msgstr "<0>Açlığını</0> kullanarak yiyecek ye ve <1>Sağlığını</1> doldur. Sonra savaşa geri dön!"
 
-#: src/components/_economy/itemOffer/ItemOfferList.tsx:86
-msgid "Used"
-msgstr "Kullanılmış"
-
 #: src/utils/translations.tsx:78
 #: src/utils/translations.tsx:84
 #: src/utils/translations.tsx:89
@@ -6132,7 +6131,7 @@ msgstr "Doğrula"
 msgid "Verify your email to create job offers. Check your email or logout/login again"
 msgstr "İş teklifleri oluşturmak için e-postanı doğrula. E-postanı kontrol et veya çıkış yap/tekrar giriş yap"
 
-#: src/components/_economy/itemOffer/ItemOfferList.tsx:101
+#: src/components/_economy/itemOffer/ItemOfferList.tsx:85
 msgid "Verify your email to trade items. Check your email or logout/login again"
 msgstr "Eşya ticareti yapmak için e-postanı doğrula. E-postanı kontrol et veya çıkış yap/tekrar giriş yap"
 
@@ -6147,6 +6146,10 @@ msgstr "Koramiral"
 #: src/components/_political/government/Government.tsx:60
 msgid "Vice President"
 msgstr "Başkan Yardımcısı"
+
+#: src/components/_military/battle/BattleHeader.tsx:168
+msgid "View on map"
+msgstr ""
 
 #: src/components/_military/war/WarComparison.tsx:45
 msgid "VS"

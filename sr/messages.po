@@ -945,6 +945,10 @@ msgstr "Прихвати склапање мира са другом земљо�
 msgid "Accepted"
 msgstr "Прихваћено"
 
+#: src/components/_military/battle/BattleHeader.tsx:161
+msgid "Access war"
+msgstr ""
+
 #: src/components/_political/country/CountryHeader.tsx:70
 #: src/components/_user/user/UserHeader.tsx:162
 #: src/pages/country/[countryId]/account.tsx:36
@@ -1038,7 +1042,6 @@ msgstr "Напредне Панталоне"
 msgid "Agrarian"
 msgstr "Aграрна"
 
-#: src/components/_economy/itemOffer/ItemOfferList.tsx:92
 #: src/components/_military/battle/ActiveBattlesList.tsx:132
 #: src/components/_military/battle/EndedBattlesList.tsx:78
 msgid "All"
@@ -3795,7 +3798,7 @@ msgstr "Нова опрема"
 msgid "New ethics configuration"
 msgstr "Нова конфигурација етике"
 
-#: src/components/_economy/itemOffer/ItemOfferList.tsx:106
+#: src/components/_economy/itemOffer/ItemOfferList.tsx:90
 msgid "New item offer"
 msgstr "Нова понуда предмета"
 
@@ -3971,7 +3974,7 @@ msgstr "Још увек нема рангирања новца."
 msgid "No motions yet"
 msgstr "Још нема страначких предлога"
 
-#: src/components/_economy/itemOffer/ItemOfferList.tsx:113
+#: src/components/_economy/itemOffer/ItemOfferList.tsx:97
 msgid "No offers found"
 msgstr "Нису пронађене понуде"
 
@@ -5389,7 +5392,7 @@ msgstr "Запозни председничке изборе"
 msgid "Start revolution"
 msgstr "Започни револуцију"
 
-#: src/components/_military/battle/BattleHeader.tsx:187
+#: src/components/_military/battle/BattleHeader.tsx:185
 #: src/components/_military/war/WarHeader.tsx:61
 #: src/components/_military/war/WarItem.tsx:108
 msgid "Started <0/>"
@@ -5942,10 +5945,6 @@ msgstr "Користи своје <0>предузетништво</0> да ра�
 msgid "Use your <0>Hunger</0> to eat food and refill your <1>Health</1>. Then get back to fighting!"
 msgstr "Користи своју <0>глад</0> да поједеш храну и допуниш своје <1>здравље</1>. Затим се врати у борбу!"
 
-#: src/components/_economy/itemOffer/ItemOfferList.tsx:86
-msgid "Used"
-msgstr "Коришћено"
-
 #: src/utils/translations.tsx:78
 #: src/utils/translations.tsx:84
 #: src/utils/translations.tsx:89
@@ -6132,7 +6131,7 @@ msgstr "Верификуј"
 msgid "Verify your email to create job offers. Check your email or logout/login again"
 msgstr "Верификујте своју имејл адресу да бисте креирали понуде за посао. Проверите своју имејл адресу или се поново одјавите/пријавите"
 
-#: src/components/_economy/itemOffer/ItemOfferList.tsx:101
+#: src/components/_economy/itemOffer/ItemOfferList.tsx:85
 msgid "Verify your email to trade items. Check your email or logout/login again"
 msgstr "Верификујте своју имејл адресу да бисте могли да тргујете артиклима. Проверите имејл адресу или се поново одјавите/пријавите"
 
@@ -6147,6 +6146,10 @@ msgstr "Вицеадмирал"
 #: src/components/_political/government/Government.tsx:60
 msgid "Vice President"
 msgstr "Потпредседник"
+
+#: src/components/_military/battle/BattleHeader.tsx:168
+msgid "View on map"
+msgstr ""
 
 #: src/components/_military/war/WarComparison.tsx:45
 msgid "VS"

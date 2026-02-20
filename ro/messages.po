@@ -943,6 +943,10 @@ msgstr "Acceptă pace între țări"
 msgid "Accepted"
 msgstr "Acceptată"
 
+#: src/components/_military/battle/BattleHeader.tsx:161
+msgid "Access war"
+msgstr ""
+
 #: src/components/_political/country/CountryHeader.tsx:70
 #: src/components/_user/user/UserHeader.tsx:162
 #: src/pages/country/[countryId]/account.tsx:36
@@ -1036,7 +1040,6 @@ msgstr "Pantaloni avansați"
 msgid "Agrarian"
 msgstr ""
 
-#: src/components/_economy/itemOffer/ItemOfferList.tsx:92
 #: src/components/_military/battle/ActiveBattlesList.tsx:132
 #: src/components/_military/battle/EndedBattlesList.tsx:78
 msgid "All"
@@ -3793,7 +3796,7 @@ msgstr "Echipament nou"
 msgid "New ethics configuration"
 msgstr ""
 
-#: src/components/_economy/itemOffer/ItemOfferList.tsx:106
+#: src/components/_economy/itemOffer/ItemOfferList.tsx:90
 msgid "New item offer"
 msgstr "Ofertă nouă"
 
@@ -3969,7 +3972,7 @@ msgstr "Fără clasament bani."
 msgid "No motions yet"
 msgstr ""
 
-#: src/components/_economy/itemOffer/ItemOfferList.tsx:113
+#: src/components/_economy/itemOffer/ItemOfferList.tsx:97
 msgid "No offers found"
 msgstr "Nu s-au găsit oferte"
 
@@ -5387,7 +5390,7 @@ msgstr "Declanșează alegeri prezidențiale"
 msgid "Start revolution"
 msgstr ""
 
-#: src/components/_military/battle/BattleHeader.tsx:187
+#: src/components/_military/battle/BattleHeader.tsx:185
 #: src/components/_military/war/WarHeader.tsx:61
 #: src/components/_military/war/WarItem.tsx:108
 msgid "Started <0/>"
@@ -5940,10 +5943,6 @@ msgstr "Folosește-ți <0>Antreprenoriatul</0> pentru a lucra în propria compan
 msgid "Use your <0>Hunger</0> to eat food and refill your <1>Health</1>. Then get back to fighting!"
 msgstr "Folosește-ți din <0>Foame</0> pentru a consuma alimente și a-ți reîncărca <1>Viața</1>. Apoi, înapoi la luptă!"
 
-#: src/components/_economy/itemOffer/ItemOfferList.tsx:86
-msgid "Used"
-msgstr "Folosite"
-
 #: src/utils/translations.tsx:78
 #: src/utils/translations.tsx:84
 #: src/utils/translations.tsx:89
@@ -6130,7 +6129,7 @@ msgstr "Verifică"
 msgid "Verify your email to create job offers. Check your email or logout/login again"
 msgstr "Verifică-ți emailul pentru a crea oferte de muncă. Verifică emailul sau deconectează-te și conectează-te din nou"
 
-#: src/components/_economy/itemOffer/ItemOfferList.tsx:101
+#: src/components/_economy/itemOffer/ItemOfferList.tsx:85
 msgid "Verify your email to trade items. Check your email or logout/login again"
 msgstr "Verifică-ți emailul pentru a tranzacționa articole. Verifică emailul sau deconectează-te și conectează-te din nou"
 
@@ -6145,6 +6144,10 @@ msgstr "Viceamiral"
 #: src/components/_political/government/Government.tsx:60
 msgid "Vice President"
 msgstr "Vicepreședinte"
+
+#: src/components/_military/battle/BattleHeader.tsx:168
+msgid "View on map"
+msgstr ""
 
 #: src/components/_military/war/WarComparison.tsx:45
 msgid "VS"

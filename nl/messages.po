@@ -945,6 +945,10 @@ msgstr "Accepteer vrede met het andere land"
 msgid "Accepted"
 msgstr "Geaccepteerd"
 
+#: src/components/_military/battle/BattleHeader.tsx:161
+msgid "Access war"
+msgstr ""
+
 #: src/components/_political/country/CountryHeader.tsx:70
 #: src/components/_user/user/UserHeader.tsx:162
 #: src/pages/country/[countryId]/account.tsx:36
@@ -1038,7 +1042,6 @@ msgstr "Geavanceerde Broeken"
 msgid "Agrarian"
 msgstr "Agrarisch"
 
-#: src/components/_economy/itemOffer/ItemOfferList.tsx:92
 #: src/components/_military/battle/ActiveBattlesList.tsx:132
 #: src/components/_military/battle/EndedBattlesList.tsx:78
 msgid "All"
@@ -3795,7 +3798,7 @@ msgstr "Nieuwe uitrusting"
 msgid "New ethics configuration"
 msgstr "Nieuwe ethische configuratie"
 
-#: src/components/_economy/itemOffer/ItemOfferList.tsx:106
+#: src/components/_economy/itemOffer/ItemOfferList.tsx:90
 msgid "New item offer"
 msgstr "Nieuw item aanbod"
 
@@ -3971,7 +3974,7 @@ msgstr "Nog geen geldranglijst."
 msgid "No motions yet"
 msgstr "Nog geen moties"
 
-#: src/components/_economy/itemOffer/ItemOfferList.tsx:113
+#: src/components/_economy/itemOffer/ItemOfferList.tsx:97
 msgid "No offers found"
 msgstr "Geen aanbiedingen gevonden"
 
@@ -5389,7 +5392,7 @@ msgstr "Start presidentsverkiezingen"
 msgid "Start revolution"
 msgstr "Begin de revolutie"
 
-#: src/components/_military/battle/BattleHeader.tsx:187
+#: src/components/_military/battle/BattleHeader.tsx:185
 #: src/components/_military/war/WarHeader.tsx:61
 #: src/components/_military/war/WarItem.tsx:108
 msgid "Started <0/>"
@@ -5942,10 +5945,6 @@ msgstr "Gebruik je <0>Ondernemerschap</0> om in je eigen bedrijf te werken en de
 msgid "Use your <0>Hunger</0> to eat food and refill your <1>Health</1>. Then get back to fighting!"
 msgstr "Gebruik je <0>Honger</0> om voedsel te eten en je <1>Gezondheid</1> aan te vullen. Ga dan weer aan het vechten!"
 
-#: src/components/_economy/itemOffer/ItemOfferList.tsx:86
-msgid "Used"
-msgstr "Gebruikt"
-
 #: src/utils/translations.tsx:78
 #: src/utils/translations.tsx:84
 #: src/utils/translations.tsx:89
@@ -6132,7 +6131,7 @@ msgstr "Controleer"
 msgid "Verify your email to create job offers. Check your email or logout/login again"
 msgstr "Controleer je e-mailadres om een baan te maken. Controleer je e-mail of log opnieuw uit/log in"
 
-#: src/components/_economy/itemOffer/ItemOfferList.tsx:101
+#: src/components/_economy/itemOffer/ItemOfferList.tsx:85
 msgid "Verify your email to trade items. Check your email or logout/login again"
 msgstr "Controleer je e-mailadres om items te ruilen. Controleer je e-mail of log opnieuw uit/log in"
 
@@ -6147,6 +6146,10 @@ msgstr "Viceadmiraal"
 #: src/components/_political/government/Government.tsx:60
 msgid "Vice President"
 msgstr "Vicepresident"
+
+#: src/components/_military/battle/BattleHeader.tsx:168
+msgid "View on map"
+msgstr ""
 
 #: src/components/_military/war/WarComparison.tsx:45
 msgid "VS"

@@ -945,6 +945,10 @@ msgstr "Accetta di fare pace con l'altro paese"
 msgid "Accepted"
 msgstr "Accettato"
 
+#: src/components/_military/battle/BattleHeader.tsx:161
+msgid "Access war"
+msgstr ""
+
 #: src/components/_political/country/CountryHeader.tsx:70
 #: src/components/_user/user/UserHeader.tsx:162
 #: src/pages/country/[countryId]/account.tsx:36
@@ -1038,7 +1042,6 @@ msgstr "Pantaloni avanzati"
 msgid "Agrarian"
 msgstr ""
 
-#: src/components/_economy/itemOffer/ItemOfferList.tsx:92
 #: src/components/_military/battle/ActiveBattlesList.tsx:132
 #: src/components/_military/battle/EndedBattlesList.tsx:78
 msgid "All"
@@ -3795,7 +3798,7 @@ msgstr "Nuovo equipaggiamento"
 msgid "New ethics configuration"
 msgstr ""
 
-#: src/components/_economy/itemOffer/ItemOfferList.tsx:106
+#: src/components/_economy/itemOffer/ItemOfferList.tsx:90
 msgid "New item offer"
 msgstr "Nuova offerta oggetto"
 
@@ -3971,7 +3974,7 @@ msgstr "Nessuna classifica denaro ancora."
 msgid "No motions yet"
 msgstr ""
 
-#: src/components/_economy/itemOffer/ItemOfferList.tsx:113
+#: src/components/_economy/itemOffer/ItemOfferList.tsx:97
 msgid "No offers found"
 msgstr "Nessuna offerta trovata"
 
@@ -5389,7 +5392,7 @@ msgstr "Avvia elezione presidenziale"
 msgid "Start revolution"
 msgstr ""
 
-#: src/components/_military/battle/BattleHeader.tsx:187
+#: src/components/_military/battle/BattleHeader.tsx:185
 #: src/components/_military/war/WarHeader.tsx:61
 #: src/components/_military/war/WarItem.tsx:108
 msgid "Started <0/>"
@@ -5942,10 +5945,6 @@ msgstr "Usa la tua <0>Imprenditorialità</0> per lavorare nella tua azienda e ri
 msgid "Use your <0>Hunger</0> to eat food and refill your <1>Health</1>. Then get back to fighting!"
 msgstr "Usa la tua <0>Fame</0> per mangiare cibo e ricaricare la tua <1>Salute</1>. Poi torna a combattere!"
 
-#: src/components/_economy/itemOffer/ItemOfferList.tsx:86
-msgid "Used"
-msgstr "Usato"
-
 #: src/utils/translations.tsx:78
 #: src/utils/translations.tsx:84
 #: src/utils/translations.tsx:89
@@ -6132,7 +6131,7 @@ msgstr "Verifica"
 msgid "Verify your email to create job offers. Check your email or logout/login again"
 msgstr "Verifica la tua email per creare offerte di lavoro. Controlla la posta o fai logout/login di nuovo"
 
-#: src/components/_economy/itemOffer/ItemOfferList.tsx:101
+#: src/components/_economy/itemOffer/ItemOfferList.tsx:85
 msgid "Verify your email to trade items. Check your email or logout/login again"
 msgstr "Verifica la tua email per scambiare oggetti. Controlla la posta o fai logout/login di nuovo"
 
@@ -6147,6 +6146,10 @@ msgstr "Viceammiraglio"
 #: src/components/_political/government/Government.tsx:60
 msgid "Vice President"
 msgstr "Vicepresidente"
+
+#: src/components/_military/battle/BattleHeader.tsx:168
+msgid "View on map"
+msgstr ""
 
 #: src/components/_military/war/WarComparison.tsx:45
 msgid "VS"

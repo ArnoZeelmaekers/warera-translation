@@ -945,6 +945,10 @@ msgstr "Pieņemt pamieru ar šo valsti"
 msgid "Accepted"
 msgstr "Pieņemts"
 
+#: src/components/_military/battle/BattleHeader.tsx:161
+msgid "Access war"
+msgstr ""
+
 #: src/components/_political/country/CountryHeader.tsx:70
 #: src/components/_user/user/UserHeader.tsx:162
 #: src/pages/country/[countryId]/account.tsx:36
@@ -1038,7 +1042,6 @@ msgstr "Zilās Bikses"
 msgid "Agrarian"
 msgstr "Agrārisms"
 
-#: src/components/_economy/itemOffer/ItemOfferList.tsx:92
 #: src/components/_military/battle/ActiveBattlesList.tsx:132
 #: src/components/_military/battle/EndedBattlesList.tsx:78
 msgid "All"
@@ -3795,7 +3798,7 @@ msgstr "Jauns ekipējums"
 msgid "New ethics configuration"
 msgstr "Jauna vērtību konfigurācija"
 
-#: src/components/_economy/itemOffer/ItemOfferList.tsx:106
+#: src/components/_economy/itemOffer/ItemOfferList.tsx:90
 msgid "New item offer"
 msgstr "Jauns sludinājums"
 
@@ -3971,7 +3974,7 @@ msgstr "Vēl nav atlīdzības kopvērtējuma"
 msgid "No motions yet"
 msgstr "Vēl nav priekšlikumu"
 
-#: src/components/_economy/itemOffer/ItemOfferList.tsx:113
+#: src/components/_economy/itemOffer/ItemOfferList.tsx:97
 msgid "No offers found"
 msgstr "Nav sludinājumu"
 
@@ -5389,7 +5392,7 @@ msgstr "Ierosināt prezidenta vēlēšanas"
 msgid "Start revolution"
 msgstr "Uzsākt revolūciju"
 
-#: src/components/_military/battle/BattleHeader.tsx:187
+#: src/components/_military/battle/BattleHeader.tsx:185
 #: src/components/_military/war/WarHeader.tsx:61
 #: src/components/_military/war/WarItem.tsx:108
 msgid "Started <0/>"
@@ -5942,10 +5945,6 @@ msgstr "Izmanto <0>Uzņēmējdarbību</0>, lai strādātu savā uzņēmumā un p
 msgid "Use your <0>Hunger</0> to eat food and refill your <1>Health</1>. Then get back to fighting!"
 msgstr "Izmanto <0>Ēstgribu</0>, lai ēstu pārtiku un atjaunotu savas <1>Dzīvības</1>. Pēc tam atgriezies pie karošanas!"
 
-#: src/components/_economy/itemOffer/ItemOfferList.tsx:86
-msgid "Used"
-msgstr "Lietots"
-
 #: src/utils/translations.tsx:78
 #: src/utils/translations.tsx:84
 #: src/utils/translations.tsx:89
@@ -6132,7 +6131,7 @@ msgstr "Apstiprināt"
 msgid "Verify your email to create job offers. Check your email or logout/login again"
 msgstr "Apstiprini savu e-pastu, lai izveidotu darba piedāvājumus. Pārbaudi savu e-pastu vai izej/ienāc spēlē vēlreiz"
 
-#: src/components/_economy/itemOffer/ItemOfferList.tsx:101
+#: src/components/_economy/itemOffer/ItemOfferList.tsx:85
 msgid "Verify your email to trade items. Check your email or logout/login again"
 msgstr "Apstiprini savu e-pastu, lai varētu tirgoties. Pārbaudi e-pastu un izej/ienāc spēlē vēlreiz"
 
@@ -6147,6 +6146,10 @@ msgstr "Viceadmirālis"
 #: src/components/_political/government/Government.tsx:60
 msgid "Vice President"
 msgstr "Viceprezidents"
+
+#: src/components/_military/battle/BattleHeader.tsx:168
+msgid "View on map"
+msgstr ""
 
 #: src/components/_military/war/WarComparison.tsx:45
 msgid "VS"
