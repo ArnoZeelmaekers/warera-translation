@@ -19,7 +19,6 @@ sr/messages.po   # Serbian
 tr/messages.po   # Turkish
 uk/messages.po   # Ukrainian
 nl/messages.po   # Dutch
-
 ```
 
 ## How to Contribute
