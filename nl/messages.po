@@ -88,7 +88,7 @@ msgstr "{0}/{1} actief"
 #. placeholder {0}: companyCountry.taxes.income
 #: src/components/_economy/company/CompanyTags.tsx:50
 msgid "{0}% income tax will be deducted from earnings when working in this company."
-msgstr "{0}% inkomstenbelasting wordt afgetrokken van jouw verdiensten wanneer je bij dit bedrijf werkt."
+msgstr "{0}% inkomstenbelasting wordt afgetrokken van jouw loon wanneer je bij dit bedrijf werkt."
 
 #. placeholder {0}: region.taxPercent
 #: src/components/_economy/company/RecommendedCompanyRegions.tsx:168
