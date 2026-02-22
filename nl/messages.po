@@ -529,7 +529,7 @@ msgstr "<0>Onrust</0> vertegenwoordigt interne spanningen in het land.<1/><2/>Bu
 
 #: src/components/_economy/inventory/case/cases.frontConfig.tsx:86
 msgid "1 legendary down, 5 more to go for a full stuff, keep gambling!"
-msgstr "1 legendarische minder, nog 5 te gaan voor een volledige set, blijf gokken!"
+msgstr "1 legendarische geteld, nog 5 te gaan voor een volledige set, blijf gokken!"
 
 #: src/components/_user/user/militaryRankings.frontConfig.tsx:137
 msgid "1★ Admiral"
@@ -2203,7 +2203,7 @@ msgstr "Verklaar de oorlog aan <0/>"
 
 #: src/components/_political/law/law.frontConfig.tsx:94
 msgid "Declare war to another country"
-msgstr "Verklaart oorlog aan een ander land"
+msgstr "Verklaar de oorlog aan een ander land"
 
 #: src/components/_user/worker/WageReductionAlert.tsx:94
 msgid "Decline & Leave"
@@ -3012,7 +3012,7 @@ msgstr "Stel je voor dat je stopt vlak voor de Mythic"
 
 #: src/components/_economy/inventory/case/cases.frontConfig.tsx:7
 msgid "Imagine wasting your click on this"
-msgstr "Stel je voor dat je een klik hieraan verspilt"
+msgstr "Stel je voor dat je je klik hieraan verspilt"
 
 #: src/components/_political/law/law.frontConfig.tsx:147
 msgid "Impeach congress member"
