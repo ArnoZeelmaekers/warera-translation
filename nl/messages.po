@@ -1035,7 +1035,7 @@ msgstr "Geavanceerde helm"
 
 #: src/utils/translations.tsx:201
 msgid "Advanced Pants"
-msgstr "Geavanceerde broek"
+msgstr "Geavanceerde Broek"
 
 #: src/components/_political/party/party.frontConfig.tsx:297
 #: src/components/_political/party/party.frontConfig.tsx:314
