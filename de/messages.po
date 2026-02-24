@@ -116,7 +116,7 @@ msgstr "{battleIcon}Turnierschlacht um {tournamentName} {score}"
 msgid "{battleIcon}War battle for {regionName} {score}"
 msgstr "{battleIcon}Kriegsschlacht um {regionName} {score}"
 
-#: src/components/_user/mission/MissionsList.tsx:162
+#: src/components/_user/mission/MissionsList.tsx:171
 msgid "{completedCount}/{totalCount} completed"
 msgstr "{completedCount}/{totalCount} abgeschlossen"
 
@@ -266,11 +266,11 @@ msgstr "<0/> hat deinen Artikel <1/> geliked"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:964
 msgid "<0/> liked your message <1/>"
-msgstr "<0/> hat deine Nachricht <1/> geliked"
+msgstr "<0/> liked deine Nachricht <1/>"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:1306
 msgid "<0/> mentioned you in a message <1/>"
-msgstr "<0/> hat dich in einer Nachricht <1/> erwähnt"
+msgstr "<0/> erwähnt dich in einer Nachricht <1/>"
 
 #: src/components/_military/war/WarItem.tsx:115
 msgid "<0/> Priority ends in <1/>"
@@ -287,15 +287,15 @@ msgstr "<0/> hat dich für das Spiel geworben."
 #. placeholder {0}: data.messageId && <MessageItemById messageId={data.messageId} />
 #: src/components/_user/notification/notification.frontConfig.tsx:991
 msgid "<0/> responded to your message {0}"
-msgstr "<0/> hat auf deine Nachricht {0} geantwortet"
+msgstr "<0/> antwortete auf deine Nachricht {0}"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:950
 msgid "<0/> subscribed to you on your article <1/>"
-msgstr "<0/> hat dich bei deinem Artikel <1/> abonniert"
+msgstr "<0/> abonnierte dich bei deinem Artikel <1/> "
 
 #: src/components/_user/notification/notification.frontConfig.tsx:931
 msgid "<0/> tipped your article <1/>"
-msgstr "<0/> hat dir für deinen Artikel <1/> Trinkgeld gegeben"
+msgstr "<0/> gab dir Trinkgeld für deinen Artikel <1/> "
 
 #: src/components/_military/war/WarHeader.tsx:28
 msgid "<0/> vs <1/> war"
@@ -2093,7 +2093,7 @@ msgstr "Aktuelle Gesamtsumme:"
 msgid "Custom username font"
 msgstr "Benutzerdefinierte Schriftart des Benutzernamens"
 
-#: src/components/_user/mission/MissionsList.tsx:180
+#: src/components/_user/mission/MissionsList.tsx:189
 msgid "Daily"
 msgstr "Täglich"
 
@@ -2581,7 +2581,7 @@ msgstr "Ethik-Punkte:"
 #: src/components/_layout/MoreButtonNav.tsx:94
 #: src/pages/country/[countryId]/index.tsx:341
 msgid "Events"
-msgstr "Ereignisse"
+msgstr "Events"
 
 #: src/pages/tournament/[tournamentId]/index.tsx:42
 msgid "Everyone participates automatically"
@@ -2812,7 +2812,7 @@ msgstr "Edelsteine werden verwendet, um Gegenstände im Shop zu kaufen und Suppo
 msgid "General"
 msgstr "General"
 
-#: src/components/_user/mission/MissionsList.tsx:232
+#: src/components/_user/mission/MissionsList.tsx:241
 msgid "Generate Missions"
 msgstr "Missionen generieren"
 
@@ -3621,7 +3621,7 @@ msgstr "Außenminister"
 
 #: src/components/_layout/LayoutRightIcons.tsx:254
 #: src/components/_layout/MoreButtonNav.tsx:103
-#: src/components/_user/mission/MissionsList.tsx:159
+#: src/components/_user/mission/MissionsList.tsx:168
 msgid "Missions"
 msgstr "Missionen"
 
@@ -3773,7 +3773,7 @@ msgstr "Niemals aufgeben!"
 msgid "Never stop gambling"
 msgstr "Hör niemals auf zu spielen"
 
-#: src/components/_other/shop/SkinItem.tsx:95
+#: src/components/_other/shop/SkinItem.tsx:119
 #: src/components/_other/shop/SkinPackItem.tsx:83
 #: src/components/_social/ArticleList.tsx:133
 msgid "New"
@@ -3869,15 +3869,15 @@ msgstr "Neueste"
 #: src/components/_layout/LayoutRightIcons.tsx:280
 #: src/components/_layout/MoreButtonNav.tsx:112
 msgid "News"
-msgstr "Neuigkeiten"
+msgstr "News"
 
 #: src/components/_economy/inventory/case/cases.frontConfig.tsx:18
 msgid "Next one will be a tank"
-msgstr "Die nächste wird ein Panzer sein"
+msgstr "Die nächste wird bestimmt ein Panzer sein"
 
 #: src/components/_economy/inventory/case/cases.frontConfig.tsx:23
 msgid "Next one will be tank"
-msgstr "Die nächste wird ein Panzer sein"
+msgstr "Die nächste wird bestimmt ein Panzer sein"
 
 #: src/components/_military/battle/BattleSystem.tsx:468
 msgid "Next tick"
@@ -3885,11 +3885,11 @@ msgstr "Nächster Tick"
 
 #: src/components/_economy/inventory/case/cases.frontConfig.tsx:39
 msgid "Nice"
-msgstr "Nett"
+msgstr "Nice"
 
 #: src/components/_economy/inventory/case/cases.frontConfig.tsx:66
 msgid "Nice one"
-msgstr "Guter Fang"
+msgstr "Guter pull"
 
 #: src/components/_other/tour/tuto.frontConfig.tsx:192
 msgid "Nice work!"
@@ -3963,7 +3963,7 @@ msgstr "Noch keine Gesetze"
 msgid "No military units found"
 msgstr "Keine Militäreinheiten gefunden"
 
-#: src/components/_user/mission/MissionsList.tsx:222
+#: src/components/_user/mission/MissionsList.tsx:231
 msgid "No missions available"
 msgstr "Keine Missionen verfügbar"
 
@@ -4910,7 +4910,7 @@ msgstr "Neuverteilung in"
 
 #: src/components/_military/hit/HitButton.tsx:284
 msgid "Resist"
-msgstr "Widerstand leisten"
+msgstr "Widersetzen"
 
 #: src/pages/region/[regionId]/index.tsx:125
 msgid "Resistance"
@@ -5400,7 +5400,7 @@ msgstr "Revolution starten"
 msgid "Started <0/>"
 msgstr "Gestartet <0/>"
 
-#: src/components/_user/mission/MissionsList.tsx:205
+#: src/components/_user/mission/MissionsList.tsx:214
 msgid "Starting"
 msgstr "Startet"
 
@@ -6229,7 +6229,7 @@ msgstr "Reichtum"
 msgid "Weapon"
 msgstr "Waffe"
 
-#: src/components/_user/mission/MissionsList.tsx:193
+#: src/components/_user/mission/MissionsList.tsx:202
 msgid "Weekly"
 msgstr "Wöchentlich"
 
