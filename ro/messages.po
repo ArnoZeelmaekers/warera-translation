@@ -5260,7 +5260,7 @@ msgstr ""
 msgid "Show more"
 msgstr "Mai multe"
 
-#: src/components/_social/ArticleList.tsx:141
+#: src/components/_social/ArticleList.tsx:140
 msgid "Show only articles with positive score (score >= -5)"
 msgstr ""
 
