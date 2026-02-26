@@ -1007,7 +1007,7 @@ msgstr "Extra kosten"
 msgid "Admin"
 msgstr "Administratie"
 
-#: src/pages/user/[userId]/bans.tsx:261
+#: src/pages/user/[userId]/bans.tsx:262
 msgid "Admin Actions"
 msgstr "Beheerdersacties"
 
@@ -1321,6 +1321,10 @@ msgstr "Gebalanceerd"
 msgid "Balanced - No modifiers"
 msgstr "Gebalanceerd - Geen modificatoren"
 
+#: src/pages/user/[userId]/bans.tsx:288
+msgid "Ban History"
+msgstr ""
+
 #: src/components/_user/user/UserDropdown.tsx:264
 msgid "Ban user"
 msgstr "Gebruiker verbieden"
@@ -1487,7 +1491,7 @@ msgstr "Bouw een militaire eenheid"
 msgid "Build the military unit"
 msgstr "Bouw de militaire eenheid"
 
-#: src/pages/user/[userId]/bans.tsx:180
+#: src/pages/user/[userId]/bans.tsx:181
 msgid "Buy"
 msgstr ""
 
@@ -1917,7 +1921,7 @@ msgstr "Maak verbinding via Discord"
 msgid "Connect with email"
 msgstr "Verbind met e-mail"
 
-#: src/pages/user/[userId]/bans.tsx:253
+#: src/pages/user/[userId]/bans.tsx:254
 msgid "Connection"
 msgstr "Verbinding"
 
@@ -2479,7 +2483,7 @@ msgstr "Elite Helm"
 msgid "Elite Pants"
 msgstr "Elite Broek"
 
-#: src/pages/user/[userId]/bans.tsx:73
+#: src/pages/user/[userId]/bans.tsx:74
 msgid "Email"
 msgstr "E-mail"
 
@@ -2753,7 +2757,7 @@ msgid "Fish"
 msgstr "Vis"
 
 #: src/components/_layout/LayoutMapOptions.tsx:276
-#: src/pages/user/[userId]/bans.tsx:103
+#: src/pages/user/[userId]/bans.tsx:104
 msgid "Flags"
 msgstr "Vlaggen"
 
@@ -3936,7 +3940,7 @@ msgstr "Nog geen schaderanglijst."
 msgid "No donations yet"
 msgstr "Nog geen donaties"
 
-#: src/pages/user/[userId]/bans.tsx:81
+#: src/pages/user/[userId]/bans.tsx:82
 msgid "No email found"
 msgstr "Geen e-mail gevonden"
 
@@ -5008,7 +5012,7 @@ msgstr "Regerende Partij"
 msgid "Running low on health?"
 msgstr "Zit je bijna zonder levenspunten?"
 
-#: src/pages/user/[userId]/bans.tsx:279
+#: src/pages/user/[userId]/bans.tsx:280
 msgid "Sanction History"
 msgstr "Sanctiegeschiedenis"
 
@@ -5107,7 +5111,7 @@ msgstr "Zelfstandig werk"
 msgid "Self work <0>{count}</0> times in your companies"
 msgstr "Werk <0>{count}</0> keer in je eigen bedrijven"
 
-#: src/pages/user/[userId]/bans.tsx:205
+#: src/pages/user/[userId]/bans.tsx:206
 msgid "Sell"
 msgstr ""
 
@@ -5252,7 +5256,7 @@ msgstr "Instellingen"
 msgid "Shop"
 msgstr "Winkel"
 
-#: src/pages/user/[userId]/bans.tsx:245
+#: src/pages/user/[userId]/bans.tsx:246
 msgid "Show Inventory"
 msgstr "Toon inventaris"
 
@@ -6011,7 +6015,7 @@ msgstr "Gebruikt om bedrijven, ME's en versterkingen te upgraden"
 msgid "user"
 msgstr "gebruiker"
 
-#: src/pages/user/[userId]/bans.tsx:270
+#: src/pages/user/[userId]/bans.tsx:271
 msgid "User Actions"
 msgstr "Gebruikersacties"
 

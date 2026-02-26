@@ -1007,7 +1007,7 @@ msgstr "Додатни трошак"
 msgid "Admin"
 msgstr "Админ"
 
-#: src/pages/user/[userId]/bans.tsx:261
+#: src/pages/user/[userId]/bans.tsx:262
 msgid "Admin Actions"
 msgstr "Акције админа"
 
@@ -1321,6 +1321,10 @@ msgstr "Балансирано"
 msgid "Balanced - No modifiers"
 msgstr "Балансирано - без модификација"
 
+#: src/pages/user/[userId]/bans.tsx:288
+msgid "Ban History"
+msgstr ""
+
 #: src/components/_user/user/UserDropdown.tsx:264
 msgid "Ban user"
 msgstr "Бануј корисника"
@@ -1487,7 +1491,7 @@ msgstr "Изгради војну јединицу"
 msgid "Build the military unit"
 msgstr "Изгради војну јединицу"
 
-#: src/pages/user/[userId]/bans.tsx:180
+#: src/pages/user/[userId]/bans.tsx:181
 msgid "Buy"
 msgstr ""
 
@@ -1917,7 +1921,7 @@ msgstr "Повежи се са Discord-ом"
 msgid "Connect with email"
 msgstr "Повежи се имејлом"
 
-#: src/pages/user/[userId]/bans.tsx:253
+#: src/pages/user/[userId]/bans.tsx:254
 msgid "Connection"
 msgstr "Веза"
 
@@ -2479,7 +2483,7 @@ msgstr "Елитна кацига"
 msgid "Elite Pants"
 msgstr "Елитне панталоне"
 
-#: src/pages/user/[userId]/bans.tsx:73
+#: src/pages/user/[userId]/bans.tsx:74
 msgid "Email"
 msgstr "Имејл"
 
@@ -2753,7 +2757,7 @@ msgid "Fish"
 msgstr "Риба"
 
 #: src/components/_layout/LayoutMapOptions.tsx:276
-#: src/pages/user/[userId]/bans.tsx:103
+#: src/pages/user/[userId]/bans.tsx:104
 msgid "Flags"
 msgstr "Заставе"
 
@@ -3936,7 +3940,7 @@ msgstr "Још увек нема рангирања штете."
 msgid "No donations yet"
 msgstr "Још нема донација"
 
-#: src/pages/user/[userId]/bans.tsx:81
+#: src/pages/user/[userId]/bans.tsx:82
 msgid "No email found"
 msgstr "Имејл није пронађен"
 
@@ -5008,7 +5012,7 @@ msgstr "Владајућа странка"
 msgid "Running low on health?"
 msgstr "Понестаје ти здравља?"
 
-#: src/pages/user/[userId]/bans.tsx:279
+#: src/pages/user/[userId]/bans.tsx:280
 msgid "Sanction History"
 msgstr "Историја санкција"
 
@@ -5107,7 +5111,7 @@ msgstr "Самостални рад"
 msgid "Self work <0>{count}</0> times in your companies"
 msgstr "Ради самостално <0>{count}</0> пута у својим компанијама"
 
-#: src/pages/user/[userId]/bans.tsx:205
+#: src/pages/user/[userId]/bans.tsx:206
 msgid "Sell"
 msgstr ""
 
@@ -5252,7 +5256,7 @@ msgstr "Подешавања"
 msgid "Shop"
 msgstr "Радња"
 
-#: src/pages/user/[userId]/bans.tsx:245
+#: src/pages/user/[userId]/bans.tsx:246
 msgid "Show Inventory"
 msgstr "Отвори инвентар"
 
@@ -6011,7 +6015,7 @@ msgstr "Користи се за надоградњу компанија, ВЈ �
 msgid "user"
 msgstr "корисник"
 
-#: src/pages/user/[userId]/bans.tsx:270
+#: src/pages/user/[userId]/bans.tsx:271
 msgid "User Actions"
 msgstr "Акције корисника"
 
