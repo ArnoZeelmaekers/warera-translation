@@ -1323,7 +1323,7 @@ msgstr "Ausgeglichen - Keine Modifikatoren"
 
 #: src/pages/user/[userId]/bans.tsx:288
 msgid "Ban History"
-msgstr ""
+msgstr "Ban Historie"
 
 #: src/components/_user/user/UserDropdown.tsx:264
 msgid "Ban user"
@@ -1493,7 +1493,7 @@ msgstr "Die Militäreinheit gründen"
 
 #: src/pages/user/[userId]/bans.tsx:181
 msgid "Buy"
-msgstr ""
+msgstr "Kaufen"
 
 #: src/components/_user/mission/mission.frontConfig.tsx:166
 msgid "Buy for <0>{count}</0> money on market"
@@ -2852,7 +2852,7 @@ msgstr "geschenkt"
 
 #: src/components/_user/user/UserDropdown.tsx:333
 msgid "Give badge"
-msgstr ""
+msgstr "Verleihe ein Abzeichen"
 
 #: src/components/_user/user/UserDropdown.tsx:312
 msgid "Give money"
@@ -5113,7 +5113,7 @@ msgstr "<0>{count}</0> Mal in deinen Unternehmen selbst arbeiten"
 
 #: src/pages/user/[userId]/bans.tsx:206
 msgid "Sell"
-msgstr ""
+msgstr "Verkaufen"
 
 #: src/components/_economy/company/CompanyDropdown.tsx:253
 msgid "Sell company?"
@@ -5268,7 +5268,8 @@ msgstr "Mehr anzeigen"
 
 #: src/components/_social/ArticleList.tsx:140
 msgid "Show only articles with positive score (score >= -5)"
-msgstr ""
+msgstr "Zeige nur Artikel mit positiver Bewertung (Bewertung >= -5)"
+
 
 #: src/components/_economy/inventory/case/cases.frontConfig.tsx:19
 msgid "Skill issue?"
