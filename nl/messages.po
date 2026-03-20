@@ -93,7 +93,7 @@ msgstr "{0}/{1} actief"
 #. placeholder {0}: companyCountry.taxes.income
 #: src/components/_economy/company/CompanyTags.tsx:50
 msgid "{0}% income tax will be deducted from earnings when working in this company."
-msgstr "{0}% inkomstenbelasting wordt van je inkomsten afgetroken als je bij dit bedrijf werkt."
+msgstr "{0}% inkomstenbelasting wordt van je inkomsten afgetrokken als je bij dit bedrijf werkt."
 
 #. placeholder {0}: region.taxPercent
 #: src/components/_economy/company/RecommendedCompanyRegions.tsx:168
@@ -144,7 +144,7 @@ msgstr "*Wanneer de gebruiker delen van de set al bezit, zal de prijs verlaagd w
 
 #: src/components/_user/premium/PremiumFeatureList.tsx:143
 msgid "*May burn"
-msgstr "*Brandgevaar"
+msgstr "*Kan verbranden"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:1690
 msgid "<0/> accepted a contract"
@@ -1130,7 +1130,7 @@ msgstr "Actief"
 
 #: src/pages/region/[regionId]/index.tsx:206
 msgid "Active battle"
-msgstr "Actieve strijd"
+msgstr "Actief gevecht"
 
 #: src/pages/country/[countryId]/index.tsx:179
 msgid "Active battles"
@@ -1459,7 +1459,7 @@ msgstr "Artikel Fooi"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:935
 msgid "Article tipped"
-msgstr "Artikel getipt"
+msgstr "Fooi gegeven aan artikel"
 
 #: src/components/_user/user/UserHeader.tsx:204
 #: src/pages/user/[userId]/index.tsx:208
@@ -1515,7 +1515,7 @@ msgstr "Genereert automatisch <0>Productiepunten</0> in de loop van de tijd, zon
 
 #: src/components/_economy/company/CompanyTags.tsx:87
 msgid "Automated engine"
-msgstr "Geautomatiseerde motor"
+msgstr "Geautomatiseerde aandrijving"
 
 #: src/components/_economy/work/WorkChart.tsx:234
 #: src/components/_other/upgrade/upgrade.frontConfig.tsx:69
@@ -1929,7 +1929,7 @@ msgstr "Borst"
 
 #: src/components/_user/user/militaryRankings.frontConfig.tsx:71
 msgid "Chief"
-msgstr "Hoofd"
+msgstr "Chef"
 
 #: src/components/_user/user/militaryRankings.frontConfig.tsx:159
 msgid "Chief Commander"
@@ -2326,7 +2326,7 @@ msgstr "Kopieer deze token nu. Je zult hem nooit meer kunnen zien! Gebruik het i
 
 #: src/pages/country/[countryId]/regions.tsx:28
 msgid "Core regions"
-msgstr "Kernregios"
+msgstr "Kernregio's"
 
 #: src/components/_user/user/militaryRankings.frontConfig.tsx:46
 msgid "Corporal"
@@ -2516,7 +2516,7 @@ msgstr "Schade"
 
 #: src/components/_military/mu/MuMemberList.tsx:343
 msgid "Damages for Mu"
-msgstr "Schade voor Me"
+msgstr "Schade voor ME"
 
 #: src/components/_military/hit/HitButton.tsx:327
 msgid "Damages you did for this side in this round"
@@ -3002,7 +3002,7 @@ msgstr "Energie"
 
 #: src/components/_user/user/militaryRankings.frontConfig.tsx:81
 msgid "Ensign"
-msgstr "Vaandel"
+msgstr "Vaandrig"
 
 #: src/components/_political/law/LawFormModal.tsx:219
 msgid "Enter article ID"
@@ -3214,7 +3214,7 @@ msgstr "Eindelijk bovengemiddeld!"
 
 #: src/components/_political/partyMotion/partyMotion.frontConfig.tsx:128
 msgid "Finance a resistance battle in <0/>"
-msgstr "Een verzetsstrijd in financieren in <0/>"
+msgstr "Een verzetsstrijd financieren in <0/>"
 
 #: src/components/_political/partyMotion/partyMotion.frontConfig.tsx:122
 msgid "Finance a resistance battle in an occupied region of your country"
@@ -3287,7 +3287,7 @@ msgstr "Vlaggen"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:155
 msgid "Flail"
-msgstr "Floret"
+msgstr "Strijdvlegel"
 
 #: src/components/_layout/LayoutMapOptions.tsx:336
 msgid "Font"
@@ -3513,7 +3513,7 @@ msgstr "Help <0>{count}</0> MU leden"
 
 #: src/components/_military/mu/MuMemberList.tsx:373
 msgid "Help for Mu"
-msgstr "Help voor Me"
+msgstr "Help voor ME"
 
 #: src/components/_user/mission/mission.frontConfig.tsx:250
 msgid "Help MU Members"
@@ -3664,7 +3664,7 @@ msgstr "Industrieel"
 
 #: src/components/_user/user/militaryRankings.frontConfig.tsx:11
 msgid "Initiate"
-msgstr "Initiëren"
+msgstr "Ingewijde"
 
 #: src/components/_layout/LayoutMenu.tsx:126
 #: src/components/_user/user/MyAvatar.tsx:35
@@ -3702,7 +3702,7 @@ msgstr "Het zal geen productie opleveren en de arbeiders zullen niet kunnen werk
 
 #: src/components/_user/notification/notification.frontConfig.tsx:610
 msgid "Item bought"
-msgstr "Gekocht item"
+msgstr "Item gekocht"
 
 #: src/components/_economy/transaction/TransactionList.tsx:72
 msgid "Item Market"
@@ -3724,7 +3724,7 @@ msgstr "Arbeidsmarkt"
 
 #: src/pages/company/[companyId]/index.tsx:62
 msgid "Job offer"
-msgstr "Baan aanbod"
+msgstr "Baanaanbod"
 
 #: src/pages/market/index.tsx:77
 msgid "Job offers"
@@ -3941,7 +3941,7 @@ msgstr "Vind <0>{count}</0> berichten leuk"
 
 #: src/components/_user/mission/mission.frontConfig.tsx:327
 msgid "Like Article"
-msgstr "Artikel leukvinden'"
+msgstr "Artikel leuk vinden"
 
 #: src/components/_user/mission/mission.frontConfig.tsx:398
 msgid "Like Message"
@@ -4015,7 +4015,7 @@ msgstr "Kisten"
 #: src/components/_user/user/skills.frontConfig.tsx:155
 #: src/components/_user/user/skills.frontConfig.tsx:156
 msgid "Loot chance"
-msgstr "Vind kans"
+msgstr "Lootkans"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:497
 msgid "Looted case"
@@ -4390,7 +4390,7 @@ msgstr "MU-aanvraag afgewezen"
 
 #: src/pages/battles/contracts.tsx:53
 msgid "MU Contracts"
-msgstr "Me Contracten"
+msgstr "ME-contracten"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:1301
 msgid "MU Donation Received"
@@ -4524,7 +4524,7 @@ msgstr "Nieuw item aanbod"
 #: src/components/_economy/workOffer/WorkOfferList.tsx:169
 #: src/pages/company/[companyId]/index.tsx:67
 msgid "New job offer"
-msgstr "Nieuwe aanbod voor een baan"
+msgstr "Nieuw baanaanbod"
 
 #: src/components/_economy/company/MoveCompanyForm.tsx:77
 msgid "New location"
@@ -4562,7 +4562,7 @@ msgstr "Nieuwe president"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:690
 msgid "New referred user"
-msgstr "Nieuw geworven lidr"
+msgstr "Nieuw geworven lid"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:701
 msgid "New referrer"
@@ -4631,7 +4631,7 @@ msgstr "Geen actieve ethiek - Evenwichtig"
 
 #: src/pages/company/[companyId]/index.tsx:78
 msgid "No active job offer"
-msgstr "Geen baan aangeboden"
+msgstr "Geen actief baanaanbod"
 
 #: src/components/_military/mercenaryContract/MercenaryProposalList.tsx:95
 msgid "No active mercenary proposals"
@@ -5389,7 +5389,7 @@ msgstr "Voorstel gedaan"
 
 #: src/components/_other/shop/ShopHeader.tsx:43
 msgid "Propositions"
-msgstr "Proposities"
+msgstr "Voorstellen"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:164
 msgid "Purple Staff"
@@ -5494,7 +5494,7 @@ msgstr "Reden"
 
 #: src/pages/party/[partyId]/index.tsx:85
 msgid "Recent Applications"
-msgstr "Recente toepassingen"
+msgstr "Recente aanvragen"
 
 #: src/pages/company/[companyId]/index.tsx:101
 msgid "Recipe"
@@ -5592,7 +5592,7 @@ msgstr "regio's"
 
 #: src/components/_political/country/CountryHeader.tsx:115
 msgid "Regions"
-msgstr "Regios"
+msgstr "Regio's"
 
 #: src/components/_military/tournament/TournamentRegisterButton.tsx:131
 msgid "Register"
@@ -6294,7 +6294,7 @@ msgstr "Start nu een presidentsverkiezing"
 #: src/components/_political/partyMotion/partyMotion.frontConfig.tsx:113
 #: src/components/_political/partyMotion/partyMotion.frontConfig.tsx:115
 msgid "Start a revolution to overthrow the government"
-msgstr "Begin een revolutie om de regering te capituleren"
+msgstr "Begin een revolutie om de regering omver te werpen"
 
 #: src/components/_political/law/law.frontConfig.tsx:131
 msgid "Start congress election"
@@ -6473,7 +6473,7 @@ msgstr "Tank"
 
 #: src/components/_political/law/LawFormModal.tsx:193
 msgid "Target country"
-msgstr "Doelgebied"
+msgstr "Doelland"
 
 #: src/components/_military/mercenaryContract/MercenaryProposalItem.tsx:121
 msgid "Target MU"
@@ -6943,7 +6943,7 @@ msgstr "Ontgrendeld pakket"
 
 #: src/components/_user/user/UserHeader.tsx:407
 msgid "Unmuted <0/>"
-msgstr "Dempen ontheffen <0/>"
+msgstr "Ontdempt <0/>"
 
 #: src/components/_economy/inventory/case/cases.frontConfig.tsx:93
 msgid "Unreal. This doesn't happen"
@@ -7247,7 +7247,7 @@ msgstr "Loon"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:580
 msgid "Wage changed"
-msgstr "Loonswijziging"
+msgstr "Loonwijziging"
 
 #: src/components/_economy/workOffer/EstimatedCompanyBenefit.tsx:119
 msgid "Wage cost ({productionPoints} pts):"
@@ -7277,7 +7277,7 @@ msgstr "Wachten op level {0}"
 
 #: src/components/_user/worker/WorkerEditFormModal.tsx:157
 msgid "Waiting for the worker to accept or reject the wage reduction. You cannot change the wage until they respond."
-msgstr "Wachten tot de werknemer de loonsverlaging accepteert of weigert. Je kunt het loon niet wijzigen totdat ze hebben gereagerd."
+msgstr "Wachten tot de werknemer de loonsverlaging accepteert of weigert. Je kunt het loon niet wijzigen totdat ze hebben gereageerd."
 
 #: src/components/_economy/itemTrading/ItemTradingOrderItem.tsx:147
 msgid "wants"
@@ -7371,7 +7371,7 @@ msgstr "Wanneer je <0>Leven</0> op is, open dan dit menu om het te herstellen me
 
 #: src/pages/companies.tsx:102
 msgid "Whole Production"
-msgstr "Geele productie"
+msgstr "Gehele productie"
 
 #: src/components/_political/law/LawFormModal.tsx:180
 msgid "Why do you want to propose this law?"
@@ -7970,7 +7970,7 @@ msgstr "Je team:"
 #. placeholder {1}: data.newWage
 #: src/components/_user/notification/notification.frontConfig.tsx:582
 msgid "Your wage in <0/> changed from <1>{0}</1> to <2>{1}</2>"
-msgstr "Je salaris in <0/> veranderd van <1>{0}</1> naar <2>{1}</2>"
+msgstr "Je loon in <0/> veranderd van <1>{0}</1> naar <2>{1}</2>"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:1822
 msgid "Your weekly missions have been reset! Complete them to earn rewards."
